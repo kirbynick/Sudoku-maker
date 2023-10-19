@@ -1,0 +1,14 @@
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\bin\Debug\net7.0\Soduko Field.exe
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\bin\Debug\net7.0\Soduko Field.deps.json
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\bin\Debug\net7.0\Soduko Field.runtimeconfig.json
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\bin\Debug\net7.0\Soduko Field.dll
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\bin\Debug\net7.0\Soduko Field.pdb
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.AssemblyInfoInputs.cache
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.AssemblyInfo.cs
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.csproj.CoreCompileInputs.cache
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.dll
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\refint\Soduko Field.dll
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.pdb
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\Soduko Field.genruntimeconfig.cache
+C:\Users\Supe\Documents\Programs\Programming\Soduko Field\obj\Debug\net7.0\ref\Soduko Field.dll
