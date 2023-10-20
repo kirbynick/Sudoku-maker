@@ -2,8 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        //int column = 1;
-        //int row = 1;
+        StreamWriter numbers = new StreamWriter("Numbers.txt");
 
         for (int row = 1; row<10; row++)
         {
@@ -19,10 +18,12 @@
                 {
                     Console.Write("[");
                     Console.Write(num);
+                    numbers.Write(num);
                     Console.Write("]");  
                 } else
                 {
                     Console.Write("[ ]");
+                    numbers.Write(0);
                 }
             }
             
@@ -35,13 +36,18 @@
                     {    
                         Console.Write("[");
                         Console.Write(num1);
+                        numbers.Write(num1);
                         Console.WriteLine("]");
                     } else
                     {
                         Console.WriteLine("[ ]");
+                        numbers.Write(0);
                     }
                 } 
-        }  
+        }
+    numbers.Flush();
+    numbers.Close();
+    Console.ReadLine();      
     }
 
         
