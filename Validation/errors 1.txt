@@ -1,0 +1,13 @@
+row 2: 2
+row 2: 8
+row 3: 1
+row 4: 3
+row 9: 4
+column 1: 8
+column 3: 9
+column 4: 3
+column 5: 4
+Box 1: 2
+Box 2: 1
+Box 4: 8
+Box 8: 4
